@@ -1,0 +1,197 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Nguyễn Văn An",
+        "email": "nguyenvanan@gmail.com",
+        "phone": "+84901234567",
+        "address": {
+          "street": "12 Đường Quang Trung",
+          "city": "Hồ Chí Minh",
+          "country": "Việt Nam"
+        },
+        "skills": ["Java", "React Native", "C#", "Cloud Computing"],
+        "projects": [
+          {
+            "name": "Social Media App",
+            "description": "Ứng dụng mạng xã hội sử dụng React Native và Firebase.",
+            "year": 2025
+          },
+          {
+            "name": "Website Testing Automation",
+            "description": "Dự án kiểm thử tự động cho một website bằng C#.",
+            "year": 2024
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Trần Thị Bình",
+        "email": "tranthibinh@example.com",
+        "phone": "+84987654321",
+        "address": {
+          "street": "37 Đường Lê Thị Liền",
+          "city": "Hà Nội",
+          "country": "Việt Nam"
+        },
+        "skills": ["Python", "Django", "Machine Learning"],
+        "projects": [
+          {
+            "name": "AI Chatbot",
+            "description": "Chatbot AI sử dụng Python và TensorFlow.",
+            "year": 2024
+          },
+          {
+            "name": "E-commerce Website",
+            "description": "Trang web thương mại điện tử sử dụng Django.",
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Lê Văn Cường",
+        "email": "levancuong@example.com",
+        "phone": "+84906543210",
+        "address": {
+          "street": "51 Đường Lê Văn Lương",
+          "city": "Đà Nẵng",
+          "country": "Việt Nam"
+        },
+        "skills": ["C++", "Embedded Systems", "IoT"],
+        "projects": [
+          {
+            "name": "Smart Home System",
+            "description": "Hệ thống nhà thông minh sử dụng IoT và Arduino.",
+            "year": 2022
+          },
+          {
+            "name": "Robot Control System",
+            "description": "Hệ thống điều khiển robot dùng C++.",
+            "year": 2025
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Phạm Thị Dương",
+        "email": "phamthiduong@example.com",
+        "phone": "+84911223344",
+        "address": {
+          "street": "159 Đường Thống Nhất",
+          "city": "Cần Thơ",
+          "country": "Việt Nam"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "projects": [
+          {
+            "name": "Portfolio Website",
+            "description": "Trang web cá nhân giới thiệu sản phẩm và kỹ năng.",
+            "year": 2019
+          },
+          {
+            "name": "Real-time Chat App",
+            "description": "Ứng dụng chat thời gian thực với WebSocket.",
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hoàng Văn Hậu",
+        "email": "hoangvanhau@example.com",
+        "phone": "+84955667788",
+        "address": {
+          "street": "632 Đường Cách mạng Tháng 8",
+          "city": "Nha Trang",
+          "country": "Việt Nam"
+        },
+        "skills": ["Swift", "iOS Development", "UI/UX Design"],
+        "projects": [
+          {
+            "name": "iOS Fitness App",
+            "description": "Ứng dụng theo dõi sức khỏe và luyện tập trên iOS.",
+            "year": 2021
+          },
+          {
+            "name": "Task Manager App",
+            "description": "Ứng dụng quản lý công việc trên iPhone.",
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Võ Minh Phương",
+        "email": "vominhphuong@example.com",
+        "phone": "+84966778899",
+        "address": {
+          "street": "42 Đường Lê Thị Kỉnh",
+          "city": "Huế",
+          "country": "Việt Nam"
+        },
+        "skills": ["PHP", "Laravel", "MySQL"],
+        "projects": [
+          {
+            "name": "Job Portal",
+            "description": "Website tuyển dụng sử dụng Laravel.",
+            "year": 2018
+          },
+          {
+            "name": "Online Learning Platform",
+            "description": "Nền tảng học trực tuyến với PHP.",
+            "year": 2021
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Đinh Thảo Giang",
+        "email": "dinhthaogiang@example.com",
+        "phone": "+84977889900",
+        "address": {
+          "street": "71 Đường Huyền Trân Công Chúa",
+          "city": "Vũng Tàu",
+          "country": "Việt Nam"
+        },
+        "skills": ["Kotlin", "Android Development", "Firebase"],
+        "projects": [
+          {
+            "name": "Android Shopping App",
+            "description": "Ứng dụng mua sắm trên Android sử dụng Kotlin.",
+            "year": 2022
+          },
+          {
+            "name": "News Aggregator",
+            "description": "Ứng dụng tổng hợp tin tức trên Android.",
+            "year": 2025
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Bùi Thanh Hương",
+        "email": "buithanhhuong@example.com",
+        "phone": "+84988990011",
+        "address": {
+          "street": "369 Đường Nguyễn Văn Linh",
+          "city": "Hải Phòng",
+          "country": "Việt Nam"
+        },
+        "skills": ["Go", "Microservices", "Docker"],
+        "projects": [
+          {
+            "name": "Cloud Storage Service",
+            "description": "Dịch vụ lưu trữ đám mây sử dụng Go.",
+            "year": 2020
+          },
+          {
+            "name": "Log Monitoring System",
+            "description": "Hệ thống giám sát log với Microservices.",
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  }
+  
